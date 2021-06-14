@@ -120,9 +120,9 @@ body {
 }
 
 .app-download:nth-child(1) {
-  background-image: url("/DIO - Exercícios/2 - Instagram/IMG/apple-button.png");
+  background-image: url("/IMG/apple-button.png");
 }
 
 .app-download:nth-child(2) {
-  background-image: url("/DIO - Exercícios/2 - Instagram/IMG/googleplay-button.png");
+  background-image: url("/IMG/googleplay-button.png");
 }
